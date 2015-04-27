@@ -1,6 +1,7 @@
+ECHO This is beibg tested.
 REM @ECHO OFF
-REM To select files based on user input and run
-REM convert file -thumbnail 200 file_th.jpg
+REM To select files anding with side.jpg 
+REM convert file -thumbnail 200 SKU.jpg
 @setlocal enableextensions enabledelayedexpansion
 
 SET /P filter=What word must the filename contain?

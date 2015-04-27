@@ -1,0 +1,1 @@
+montage -pointsize 7 -label %t -tile 5x5 -frame 10 *.jpg montage.pdf
